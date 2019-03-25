@@ -3,7 +3,7 @@ templateKey: index-page
 title: Hello how are you
 image: /img/home-jumbotron.jpg
 heading: Zdarova
-subheading: Support sustainable farming while enjoying a cup
+subheading: Zdarova
 mainpitch:
   title: Why Kaldi
   description: >
